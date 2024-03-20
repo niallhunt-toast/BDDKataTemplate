@@ -2,9 +2,19 @@
 
 brought you by Nial Hunt
 
+## Lanuages
+
+This repo supports 3 languages
+
+* Kotlin
+* Python
+* Typescript
+
+there are 3 branches with the relevant scaffolding. Switch to the one you prefer.
+
 ## step 1
 
-step one prived you the `feature` file and asks you to complete the code to make the tests pass.
+step one provides you the `feature` file and asks you to complete the code to make the tests pass.
 
 ## step 2
 

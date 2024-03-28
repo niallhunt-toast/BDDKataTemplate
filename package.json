@@ -1,0 +1,27 @@
+{
+  "name": "bddkatatemplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf dist",
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niallhunt-toast/BDDKataTemplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niallhunt-toast/BDDKataTemplate/issues"
+  },
+  "homepage": "https://github.com/niallhunt-toast/BDDKataTemplate#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.3.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  }
+}

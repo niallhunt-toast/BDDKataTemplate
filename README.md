@@ -1,6 +1,6 @@
 # BDD Kata
 
-brought you by Nial Hunt
+brought you by Niall Hunt
 
 ## Lanuages
 

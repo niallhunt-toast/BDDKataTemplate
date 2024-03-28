@@ -1,26 +1,26 @@
 # BDD Kata
 
-brought you by Niall Hunt
+Brought to you by Niall Hunt and Roberto Gambuzzi
 
-## Lanuages
+## Languages
 
-This repo supports 3 languages
+This repo consists of the boilerplate and setup for 3 languages:
 
 * Kotlin
 * Python
 * Typescript
 
-there are 3 branches with the relevant scaffolding. Switch to the one you prefer.
+There are 3 branches with the relevant scaffolding. Clone this repo and checkout the appropriate branch for the language you are using.
 
-## step 1
+## Step 1
 
-step one provides you the `feature` file and asks you to complete the code to make the tests pass.
+Step one provides you with the `feature` file and step definitions. You are asked to complete the code to make the tests pass.
 
-## step 2
+## Step 2
 
-step 2 asks you to write the `feature` file and make the tests pass.
+Step 2 asks you to work together to create the `feature` file with the appropriate scenarios. You will then write step definitions and the relevant code to make the tests pass.
 
-## step 3
+## Step 3
 
-like step 2 you need to write the best feature files you can and update the relevant code.
+In Step 3 you are given an incomplete `feature` file and are expected to work together to come up with additional scenarios. You will then write the step definitions and the relevant code to make the tests pass.
 

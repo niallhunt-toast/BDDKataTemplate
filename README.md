@@ -2,6 +2,12 @@
 
 Brought to you by Niall Hunt and Roberto Gambuzzi
 
+This BDD based Kata is designed to help you understand the principles of BDD and how to write scenarios and feature files. This is a group exercise and you are encouraged to work together to complete the tasks. 
+
+To get started clone this repo and checkout the appropriate branch for the language you are using. You will find the instructions for each step in the relevant feature file. You will find the instructions for running the tests in the README for each language.
+
+The Kata itself is a slightly modified version of Gianfranco Alongi's [grocery store kata](https://github.com/Gianfrancoalongi/incremental_katas/tree/master/Grocery_store). 
+
 ## Languages
 
 This repo consists of the boilerplate and setup for 3 languages:

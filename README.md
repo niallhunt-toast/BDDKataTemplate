@@ -24,3 +24,16 @@ Step 2 asks you to work together to create the `feature` file with the appropria
 
 In Step 3 you are given an incomplete `feature` file and are expected to work together to come up with additional scenarios. You will then write the step definitions and the relevant code to make the tests pass.
 
+## Typescript Section
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run the tests
+
+```bash
+npm run test
+```

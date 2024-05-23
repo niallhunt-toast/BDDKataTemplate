@@ -26,4 +26,4 @@ In Step 3 you are given an incomplete `feature` file and are expected to work to
 
 ## Kotlin Section
 
-This template is setup to use with IntelliJ IDEA. To install the dependencies open the folder in IntelliJ and refresh the gradle project. You can then run the tests from the IDE by going to the feature file and using the green run button.
+This template is setup to use with IntelliJ IDEA. To get setup with the project, open the folder with IntelliJ and open the `build.gradle.kt` file. IntelliJ will ask you if you want to load the gradle project, click yes. Ensure you have the "Cucumber for Java" plugin installed. You can then run the tests from the IDE by going to the feature file and using the green run button.

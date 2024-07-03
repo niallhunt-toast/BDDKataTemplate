@@ -27,7 +27,7 @@
 # dairy, cheese (1Kg), 1, 7
 # meat, bacon ("tasty" brand, 3 pack), 2, 7
 # drinks, orange juice (1L), 2, 3
-# meat, cheese (gouda, 1Kg), 1, 5
+# dairy, cheese (gouda, 1Kg), 1, 5
 # drinks, bottled water (1.5L), 5, 5
 # candy, twix (1 whole box, 3 rows, 5 per row), 1, 20
 # meat, sirloin (100g), 1, 30
